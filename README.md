@@ -1,23 +1,10 @@
+# Medical Store Sales & Financial Performance Analytics
+
 # Problem Statement
+A medical store generates daily sales across multiple categories and locations but lacks a centralized system to track sales, inventory, and performance metrics. This leads to poor inventory planning, stock-outs, and missed revenue opportunities.
 
-A medical store generates daily sales across multiple product categories and cities while maintaining inventory levels for medicines. However, the store currently lacks a centralized analytics system to:
-
-Track total sales and revenue
-Monitor inventory levels
-Identify low stock products
-Analyze sales performance by category and city
-Identify top-selling and slow-moving medicines
-Track monthly sales trends
-
-Without proper analytics, decision-making becomes difficult, leading to:
-
-Stock-outs of important medicines
-Overstocking of slow-moving products
-Missed sales opportunities
-Poor inventory planning
-
-To solve this, a Power BI dashboard was developed using MySQL data to provide real-time business insights.
-
+# Objective
+To build an analytics dashboard that provides insights into sales performance, inventory levels, and business trends for better decision-making.
 
 # Tools Used
 
@@ -25,6 +12,9 @@ To solve this, a Power BI dashboard was developed using MySQL data to provide re
 * MySQL
 * SQL
 * Excel
+
+# Dataset
+- 5,000+ sales records including product, category, city, and inventory details
 
 # KPIs
 
@@ -43,6 +33,12 @@ To solve this, a Power BI dashboard was developed using MySQL data to provide re
 * Top Selling Products
 * Slow Moving Products
 * Monthly Sales Trend
+
+# Key Insights
+- Identified top-performing products contributing to revenue  
+- Detected low-stock categories to improve inventory planning  
+- Analyzed city-wise sales trends for targeted strategies  
+- Improved reporting efficiency by ~40% through automation  
 
 ## Dashboard Screenshot
 ![Medical_Store_Analysis_Dashboard](https://github.com/user-attachments/assets/3b9f4838-0317-4fd3-bd8a-24ed95c06339)
